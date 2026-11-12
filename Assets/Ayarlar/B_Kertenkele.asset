@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b1380e99f36e2c498ed57e7a496af76, type: 3}
+  m_Name: B_Kertenkele
+  m_EditorClassIdentifier: 
+  ad: Kertenkele
+  renk: {r: 0.55, g: 0.9, b: 0.45, a: 1}
+  azamiHiz: 7.5
+  ivme: 70
+  fren: 80
+  havaKontrolu: 1
+  ziplamaYuksekligi: 2.8
+  yercekimiOlcegi: 4
+  dususCarpani: 2.2
+  kisaZiplamaCarpani: 0.45
+  azamiDususHizi: 22
+  coyoteSuresi: 0.1
+  tamponSuresi: 0.15

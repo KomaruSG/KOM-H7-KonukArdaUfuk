@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b1380e99f36e2c498ed57e7a496af76, type: 3}
+  m_Name: B_Kizak
+  m_EditorClassIdentifier: 
+  ad: "K\u0131zak"
+  renk: {r: 0.55, g: 0.85, b: 1, a: 1}
+  azamiHiz: 11
+  ivme: 18
+  fren: 6
+  havaKontrolu: 0.6
+  ziplamaYuksekligi: 3.2
+  yercekimiOlcegi: 3
+  dususCarpani: 1.6
+  kisaZiplamaCarpani: 0.5
+  azamiDususHizi: 18
+  coyoteSuresi: 0.12
+  tamponSuresi: 0.12
